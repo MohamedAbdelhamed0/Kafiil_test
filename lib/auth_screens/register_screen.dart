@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:kafill_test/core/colors.dart';
 import 'package:kafill_test/widgets/circular_avatar_with_add_button.dart';
 import 'package:kafill_test/widgets/custom_elevated_button.dart';
@@ -120,13 +121,13 @@ class RegistrationScreenState extends State<RegistrationScreen> {
               EasyStep(
                 finishIcon: Icon(Icons.done),
                 topTitle: true,
-                icon: Icon(Icons.looks_one),
+                icon: Icon(FontAwesomeIcons.one),
                 title: 'Register',
               ),
               EasyStep(
                 finishIcon: Icon(Icons.done),
                 topTitle: true,
-                icon: Icon(Icons.looks_two_rounded),
+                icon: Icon(FontAwesomeIcons.two),
                 title: 'Complete Data',
               ),
             ],
