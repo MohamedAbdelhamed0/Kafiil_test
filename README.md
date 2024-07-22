@@ -84,7 +84,11 @@ Contributions are welcome! Please create a pull request or open an issue to disc
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Screenshots
 
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4bfbbc17-42e6-4cd5-919b-d2cae93bc4af" width="200" />
+  <img src="https://github.com/user-attachments/assets/fa1e9956-dbd8-4c20-a229-0956658c6f84" width="200" />
+  <img src="https://github.com/user-attachments/assets/c9d1386c-1be2-43c0-8744-0b17f3c73b5a" width="200" />
+  <img src="https://github.com/user-attachments/assets/f089c61d-e648-4f42-ac6d-febd9185adc8" width="200" />
+</p>
