@@ -29,7 +29,7 @@ class WhoIAmScreenState extends State<WhoIAmScreen> {
   }
 
   void _populateFields() {
-    _firstNameController.text = 'John ';
+    _firstNameController.text = 'John';
     _lastNameController.text = 'Doe';
     _emailController.text = 'john.doe@example.com';
     _passwordController.text = 'password123';
