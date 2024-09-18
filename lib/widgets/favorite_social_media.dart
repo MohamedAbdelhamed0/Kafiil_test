@@ -12,7 +12,7 @@ class FavoriteSocialMedia extends StatefulWidget {
 
 class FavoriteSocialMediaState extends State<FavoriteSocialMedia> {
   final List<SocialMedia> socialMediaList = [
-    SocialMedia(name: 'Facebook ', logoKey: AnyLogo.media.facebook.path),
+    SocialMedia(name: 'Facebook  ', logoKey: AnyLogo.media.facebook.path),
     SocialMedia(name: 'Twitter', logoKey: AnyLogo.media.twitter.path),
     SocialMedia(name: 'LinkedIn', logoKey: AnyLogo.media.linkedin.path),
   ];
