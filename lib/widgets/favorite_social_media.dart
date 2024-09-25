@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_any_logo/flutter_logo.dart';
 import 'package:kafill_test/core/colors.dart';
+
 import 'custom_form_field.dart';
 
 class FavoriteSocialMedia extends StatefulWidget {
@@ -12,7 +13,7 @@ class FavoriteSocialMedia extends StatefulWidget {
 
 class FavoriteSocialMediaState extends State<FavoriteSocialMedia> {
   final List<SocialMedia> socialMediaList = [
-    SocialMedia(name: 'Facebook    ', logoKey: AnyLogo.media.facebook.path),
+    SocialMedia(name: 'Facebook     ', logoKey: AnyLogo.media.facebook.path),
     SocialMedia(name: 'Twitter', logoKey: AnyLogo.media.twitter.path),
     SocialMedia(name: 'LinkedIn', logoKey: AnyLogo.media.linkedin.path),
   ];
